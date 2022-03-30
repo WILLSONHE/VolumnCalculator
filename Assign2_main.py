@@ -1,8 +1,3 @@
-# name: Shenghua He
-# student number: 251016121
-# project: Assignment 2 - main.py
-# class: CS1026A 002 SU21
-# professor: Duff Jones
 # project description: This project allow users to input shapes (3 in total), and shape dimensions. Outputting volumes in sorted orders.
 
 # import volumes to let functions in volumes able to be used
