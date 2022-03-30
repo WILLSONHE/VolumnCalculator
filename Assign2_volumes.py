@@ -1,8 +1,4 @@
-# name: Shenghua He
-# student number: 251016121
-# project: Assignment 2 - volumes.py
-# class: CS1026A 002 SU21
-# professor: Duff Jones
+
 
 # import math so that pi can be used
 import math
